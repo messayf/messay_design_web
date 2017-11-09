@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+
+.hero {
+	height: 100vh;
+	min-height: 100vh;
+	background: linear-gradient(318deg, #060635, #0066f4, #060635);
+background-size: 600% 600%;
+
+-webkit-animation: bg 16s ease infinite;
+-moz-animation: bg 16s ease infinite;
+animation: bg 16s ease infinite;
+}
+
+.logo {
+	margin-top: 33%;
+}
+
+
+.header {
+	margin-top: 0px;
+}
+.text {
+	color: #FFFFFF;
+	font-size: x-small;
+	padding-top: 2.5%;
+	margin-top: 2%;
+	padding-left: 10%;
+	padding-right: 10%;
+	font-weight: normal;
+	text-align: center;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-style: normal;
+}
+
+
+
+@-webkit-keyframes bg {
+    0%{background-position:10% 0%}
+    50%{background-position:91% 100%}
+    100%{background-position:10% 0%}
+}
+@-moz-keyframes bg {
+    0%{background-position:10% 0%}
+    50%{background-position:91% 100%}
+    100%{background-position:10% 0%}
+}
+@keyframes bg { 
+    0%{background-position:10% 0%}
+    50%{background-position:91% 100%}
+    100%{background-position:10% 0%}
+}
