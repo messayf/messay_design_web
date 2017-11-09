@@ -33,8 +33,6 @@ animation: bg 16s ease infinite;
 	font-style: normal;
 }
 
-
-
 @-webkit-keyframes bg {
     0%{background-position:10% 0%}
     50%{background-position:91% 100%}
