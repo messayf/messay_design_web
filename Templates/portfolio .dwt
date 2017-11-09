@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+	
+    <meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- TemplateBeginEditable name="doctitle" -->
+	<title>Messay's Portfolio</title>
+	<!-- TemplateEndEditable -->
+	<!-- Bootstrap -->
+	<link href="../css/bootstrap.css" rel="stylesheet">
+	<link href="../style.css" rel="stylesheet" type="text/css">
+	  <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/8d48c3a46353ef9c3b35a6902/99554952554fdf2603aedd5ca.js");</script>
+	 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-101394601-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-101394601-1');
+</script>
+	  
+	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+  <!-- TemplateBeginEditable name="head" -->
+  <!-- TemplateEndEditable -->
+  </head>
+  <body>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-12 hero">
+        <div class="container header" >
+          <div class="container-fluid"><img src="../images/messayDesign_white.svg" alt="Placeholder image" width="350" class="img-responsive center-block logo">
+			<p class="text txt">Hi, I’m Messay Denbel. My day to day job is telling stories, pitch ideas with a background in design and development. The fun part being a product designer is that you have problems to solve every single day with collaborative problem-solving process.<br> In my 5+ years journey I realize that close collaboration of multidisciplinary team with a design process creates a winning product. <br> Each individual from different disciplinary provides a unique and valuable perspective about the problem, as product enhances and feature updates have a huge impact across internal and external products. <br>Currently I am working on this website to show my design process and design portfolios <strong>will be back soon.</strong></p>
+			</div>
+			
+			
+        </div>
+      </div>
+    </div>
+  </div>
+	  
+	  <!--
+  <footer>
+   
+      <div class="container-fluid">Content for New footer Tag Goes Here</div>
+    
+  </footer>
+	  -->
+	  
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js"></script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js"></script>
+	  
+	  
+  </body>
+</html>
